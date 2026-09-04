@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 2c93877ede5da8d4082f6ff686ada72d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Music: {instanceID: 0}
+  - SFX: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - background: {fileID: 8300000, guid: d9ddf926f74d6dc4a8aeb681c1aebaa0, type: 3}
+  - logo: {fileID: 8300000, guid: a0095378f0cb7894783fc0f2bc00188e, type: 3}
+  - startGame: {fileID: 8300000, guid: 0a8d9aa5b75ab9d4d89d351422c9206e, type: 3}
+  - death: {fileID: 8300000, guid: f33be17b9a04bae49aef6df56d2558e7, type: 3}
+  - jump: {fileID: 8300000, guid: 13182107f288fdc47a11f9216c8f062b, type: 3}
+  - wallTouch: {fileID: 8300000, guid: f066f3ebedc79dc429b921d5076e5491, type: 3}
+  - pickUp: {fileID: 8300000, guid: 8139071dbcb1f9243a5e113a4a08f9ab, type: 3}
+  - teleport: {fileID: 8300000, guid: b75e326af8a53f94a8c1e0dbb445dea5, type: 3}
+  - dimensionSwitch: {fileID: 8300000, guid: a2b081ef0d000e242b811f6468cb1939, type: 3}
+  - buttonClick: {fileID: 8300000, guid: 817bf6bd29eaf6d4c99540bf6e51535c, type: 3}
+  - laser: {fileID: 8300000, guid: e47ee836e83f6c343ae08c582ef13830, type: 3}
+  - spike: {fileID: 8300000, guid: d64e91cef03af304fa237225b23c5707, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
