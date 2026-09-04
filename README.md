@@ -13,7 +13,6 @@ Press `F` to switch dimensions: 2D mode uses an orthographic, side-scrolling vie
 1. Clone the repository.
 2. Open the project folder in Unity Hub.
 3. Select Unity `2022.3.9f1` when prompted.
-4. Open the desired scene from `Assets/Scenes` and press Play.
 
 ## Controls
 
@@ -22,7 +21,6 @@ Press `F` to switch dimensions: 2D mode uses an orthographic, side-scrolling vie
 - `Space` - jump.
 - `F` - switch between 2D and 3D.
 - `Escape` - toggle the pause menu.
-- Left Ctrl or left mouse button - Fire1 action.
 
 ## Project structure
 
